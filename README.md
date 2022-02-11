@@ -2,7 +2,7 @@
 
 ## how to use 
 ```
--exec <path>: execute new file";
+-exec <path>: execute new file
 -attach <PID>: attach exist process
 -module <name>: trace API module
 -find <symbol>: find symbol
